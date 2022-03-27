@@ -1,1 +1,1 @@
-# MediocreCityDemo
+# MediocreCityDemo assets and C# project
